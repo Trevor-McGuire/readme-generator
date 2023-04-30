@@ -1,6 +1,6 @@
 # ${title}
 
- ${license}
+ ${licenseBdg}
 
 ## Table of Contents  
 1. [Description](#description)
