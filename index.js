@@ -42,6 +42,11 @@ inquirer
       type: 'input',
       message: 'Enter your email address.',
       name: 'email',
+      validate: function(email)
+      {
+          // Regex mail check (return true if valid mail)
+          return /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()\.,;\s@\"]+\.{0,1})+([^<>()\.,;:\s@\"]{2,}|[\d\.]+))$/.test(email);
+      }
     },
     {
       type: 'list',

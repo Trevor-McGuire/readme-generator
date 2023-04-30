@@ -43,6 +43,6 @@
 
 ## Questions
 
- ${github}
- 
- ${email}
+ [${github}](https://github.com/${github}/)
+
+ [${email}](mailto:${email})
