@@ -1,26 +1,26 @@
-# ${title}
+# asdf
 
 ## Description
 
-${descPara}
+asdf
 
 ## Getting Started
 
 ### Installing
 
-${iBlt}
+* asdf
 
 ### Executing program
 
-${exeBlt}
+* asdf
 
 ## Contribution Guidelines
 
-${contribPara}
+asdf
 
 ## Text Instruction
 
-${testBlt}
+* asdf
 
 ## License
 
