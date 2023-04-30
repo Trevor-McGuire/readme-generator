@@ -1,48 +1,48 @@
 # ${title}
 
+ ${license}
+
+## Table of Contents  
+1. [Description](#description)
+2. [Installing](#installing)
+3. [Executing program](#executing-program)
+4. [Contribution Guidelines](#contribution-guidelines)
+5. [Test Instruction](#test-instruction)
+6. [License](#license)
+7. [Questions](#questions)
+
 ## Description
 
-${descPara}
+ ${descPara}
 
-## Getting Started
 
-### Installing
+## Installing
 
-${iBlt}
+ ${iBlt}
 
-### Executing program
 
-${exeBlt}
+## Executing program
+
+ ${exeBlt}
+
 
 ## Contribution Guidelines
 
-${contribPara}
+ ${contribPara}
 
-## Text Instruction
 
-${testBlt}
+## Test Instruction
+
+ ${testBlt}
+
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
+ ${license}
 
 
+## Questions
 
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+ ${github}
+ 
+ ${email}
